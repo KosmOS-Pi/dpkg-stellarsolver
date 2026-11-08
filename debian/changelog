@@ -1,4 +1,4 @@
-libstellarsolver6 (2.8+kosmos-1~deb13) trixie; urgency=medium
+stellarsolver (2.8+kosmos-1~deb13) trixie; urgency=medium
 
   * Update to upstream v2.8.
   * Repackage for trixie.

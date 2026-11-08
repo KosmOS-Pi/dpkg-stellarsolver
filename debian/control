@@ -1,4 +1,4 @@
-Source: libstellarsolver6
+Source: stellarsolver
 Section: libs
 Priority: optional
 Maintainer: Matteo Piscitelli <matteo@matteopiscitelli.it>
@@ -14,8 +14,9 @@ Build-Depends:
  libcfitsio-dev,
  wcslib-dev,
  libgsl-dev
-Standards-Version: 4.5.1 
-Homepage: https://github.com/rlancaste/stellarsolver.git
+Standards-Version: 4.7.0
+Rules-Requires-Root: no
+Homepage: https://github.com/rlancaste/stellarsolver
 
 Package: libstellarsolver6-2
 Architecture: any
